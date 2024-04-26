@@ -11,8 +11,8 @@ namespace GUI_TicTacToe
         //fields
         string[] arr = { "", "", "", "", "", "", "", "", "" };
 
-        //adding in a line so that I can commit a change
-        int x = 0;
+        //commit without the prepare-commit-msg.sample
+        int commit = 0;
 
         //accumulate x or o in 
         public void Accumulate(int i, string s)
