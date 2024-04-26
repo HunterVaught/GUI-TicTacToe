@@ -1,0 +1,10 @@
+C:\Users\hunte\source\repos\GUI TicTacToe\GUI TicTacToe\bin\Debug\GUI TicTacToe.exe.config
+C:\Users\hunte\source\repos\GUI TicTacToe\GUI TicTacToe\bin\Debug\GUI TicTacToe.exe
+C:\Users\hunte\source\repos\GUI TicTacToe\GUI TicTacToe\bin\Debug\GUI TicTacToe.pdb
+C:\Users\hunte\source\repos\GUI TicTacToe\GUI TicTacToe\obj\Debug\GUI TicTacToe.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\GUI TicTacToe\GUI TicTacToe\obj\Debug\GUI_TicTacToe.Form1.resources
+C:\Users\hunte\source\repos\GUI TicTacToe\GUI TicTacToe\obj\Debug\GUI_TicTacToe.Properties.Resources.resources
+C:\Users\hunte\source\repos\GUI TicTacToe\GUI TicTacToe\obj\Debug\GUI TicTacToe.csproj.GenerateResource.cache
+C:\Users\hunte\source\repos\GUI TicTacToe\GUI TicTacToe\obj\Debug\GUI TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\GUI TicTacToe\GUI TicTacToe\obj\Debug\GUI TicTacToe.exe
+C:\Users\hunte\source\repos\GUI TicTacToe\GUI TicTacToe\obj\Debug\GUI TicTacToe.pdb
