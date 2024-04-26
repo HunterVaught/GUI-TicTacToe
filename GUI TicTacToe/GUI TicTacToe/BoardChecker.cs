@@ -12,7 +12,7 @@ namespace GUI_TicTacToe
         string[] arr = { "", "", "", "", "", "", "", "", "" };
 
         //commit without the prepare-commit-msg.sample
-        int commit = 0;
+        int commit = 1;
 
         //accumulate x or o in 
         public void Accumulate(int i, string s)
