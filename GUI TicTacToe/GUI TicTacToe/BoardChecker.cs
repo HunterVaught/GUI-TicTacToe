@@ -4,14 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//adding a small change here
-
 namespace GUI_TicTacToe
 {
     class BoardChecker : IChecker
     {
         //fields
         string[] arr = { "", "", "", "", "", "", "", "", "" };
+
+        //adding in a line so that I can commit a change
+        int x = 0;
 
         //accumulate x or o in 
         public void Accumulate(int i, string s)
@@ -66,7 +67,7 @@ namespace GUI_TicTacToe
         public bool Tie()
         {
             bool full = true;
-            for(int i = 0; i < 9; i++)
+            for (int i = 0; i < 9; i++)
             {
                 if (arr[i] != "X" && arr[i] != "O")
                     full = false;
