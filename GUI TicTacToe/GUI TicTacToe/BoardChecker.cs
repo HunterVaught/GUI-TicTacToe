@@ -8,6 +8,9 @@ namespace GUI_TicTacToe
 {
     class BoardChecker : IChecker
     {
+        //Checking in class webhook
+        int checking = 0;
+
         //fields
         string[] arr = { "", "", "", "", "", "", "", "", "" };
 
